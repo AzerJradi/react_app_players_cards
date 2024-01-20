@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Messi",
+        "jerseyNum": "10",
+        "nationalite":"argentine",
+        "imagePlayer": "https://i.pinimg.com/564x/e9/f1/ac/e9f1ac1be3e35d62c72f2118af3da92d.jpg",
+        "teamPlayer": "Inter Miami",
+        "age":"36"
+    },
+    {
+        "name": "neymar",
+        "jerseyNum": "10",
+        "nationalite":"brazil",
+        "imagePlayer": "https://i.pinimg.com/564x/36/df/0e/36df0e5a846b21fc68e55b480d64dcc6.jpg",
+        "teamPlayer": "Al Hilal",
+        "age":"31"
+    },   
+    {
+        "name": "Suarez",
+        "jerseyNum": "9",
+        "nationalite":"Uruguay",
+        "imagePlayer": "https://i.pinimg.com/564x/bd/6e/b4/bd6eb4b5d5789f8354ae0020f026361b.jpg",
+        "teamPlayer": "Inter Miami",
+        "age":"36"
+    },
+    {
+        "name": "Iniesta",
+        "jerseyNum": "8",
+        "nationalite":"spain",
+        "imagePlayer": "https://i.pinimg.com/564x/6b/0e/42/6b0e428742d8e21008394305dcde50bb.jpg",
+        "teamPlayer": "Vissel Kobe",
+        "age":"39"
+    }
+]
