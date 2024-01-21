@@ -1,11 +1,6 @@
 *{
     background-color: whitesmoke;
 }
-.cardsss{
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-}
 .Cardss{
     width: 30%;
     margin:50px auto;
@@ -19,12 +14,11 @@ h1{
 h2{
     font-size: 36px;
     margin-left: 40%;
-    margin-bottom: -20px;
+    margin-bottom: -10px;
 }
 
-h3{
-
-
+img{
+    height: 600px;
 }
 h4{
     font-size: 45px;

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Messi",
+        "name": "Messi (goat)",
         "jerseyNum": "10",
         "nationalite":"argentine",
         "imagePlayer": "https://i.pinimg.com/564x/e9/f1/ac/e9f1ac1be3e35d62c72f2118af3da92d.jpg",
@@ -30,5 +30,53 @@
         "imagePlayer": "https://i.pinimg.com/564x/6b/0e/42/6b0e428742d8e21008394305dcde50bb.jpg",
         "teamPlayer": "Vissel Kobe",
         "age":"39"
+    },
+    {
+        "name": "Puyol",
+        "jerseyNum": "5",
+        "nationalite":"Spain",
+        "imagePlayer": "https://i.pinimg.com/564x/20/45/a8/2045a8680c39a040eb68c672d67e5d9f.jpg",
+        "teamPlayer": "retired",
+        "age":"45"
+    },
+    {
+        "name": "Pique",
+        "jerseyNum": "4",
+        "nationalite":"Spain",
+        "imagePlayer": "https://i.pinimg.com/736x/65/e0/ce/65e0cedef060f41cf4bbcddccfe42be4.jpg",
+        "teamPlayer": "Retired",
+        "age":"36"
+    },
+    {
+        "name": "Ronaldinho",
+        "jerseyNum": "10",
+        "nationalite":"Brazil",
+        "imagePlayer": "https://i.pinimg.com/736x/67/c1/c2/67c1c2e14f572d035735c32ae7f910f6.jpg",
+        "teamPlayer": "Retired",
+        "age":"43"
+    },
+    {
+        "name": "Gavi",
+        "jerseyNum": "6",
+        "nationalite":"Spain",
+        "imagePlayer": "https://i.pinimg.com/564x/e3/62/f5/e362f51653a2e5e287d03bfb2adef0ce.jpg",
+        "teamPlayer": "Fc Barca",
+        "age":"19"
+    },
+    {
+        "name": "Pedri",
+        "jerseyNum": "8",
+        "nationalite":"Spain",
+        "imagePlayer": "https://i.pinimg.com/564x/f5/30/3e/f5303e0864712f332d42f7fd8b589c8d.jpg",
+        "teamPlayer": "Fc Barca",
+        "age":"21"
+    },
+    {
+        "name": "Xavi",
+        "jerseyNum": "6",
+        "nationalite":"Spain",
+        "imagePlayer": "https://i.pinimg.com/564x/67/2e/8b/672e8bfc399bfecdbc1bf7ea799e1430.jpg",
+        "teamPlayer": "Retired",
+        "age":"43"
     }
 ]
