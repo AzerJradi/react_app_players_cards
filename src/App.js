@@ -4,7 +4,7 @@ import PlayerList from './components/PlayerList';
 function App() {
   return (
     <>
-  <div className="cardddd"><PlayerList/></div>
+  <div><PlayerList/></div>
     </>
   );
 }
